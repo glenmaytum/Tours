@@ -1,1 +1,1 @@
-# Tours
+A React-based app which fetches a list of tours from an Api and displays them on the page.  It includes functionality to delete as well as refresh.  Each tour only displays limited information until "read more" is clicked.
